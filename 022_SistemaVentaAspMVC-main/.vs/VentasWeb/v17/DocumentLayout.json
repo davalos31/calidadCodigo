@@ -1,0 +1,804 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\compra\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\compra\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\compra\\documento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\compra\\documento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\categoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|c:\\users\\lenovo\\desktop\\guia\\022_sistemaventaaspmvc-main\\ventasweb\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|c:\\users\\lenovo\\desktop\\guia\\022_sistemaventaaspmvc-main\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\views\\permisos_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\views\\permisos_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\views\\categoria_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\views\\categoria_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\views\\compra_consultar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\views\\compra_consultar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\views\\cliente_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\views\\cliente_crear.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\submenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\submenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\reporte\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\reporte\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\utilidades\\encriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\utilidades\\encriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\scripts\\src\\methods\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\scripts\\src\\methods\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\producto\\asignar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\producto\\asignar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\permisos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\permisos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\compra\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\compra\\consultar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_productotienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_productotienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\capamodelo\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E595A57-BC8C-470D-9EA1-287A9547F592}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537AD79-55EC-4B07-AD4A-11ACDC9E3C05}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\unittestproject1\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537AD79-55EC-4B07-AD4A-11ACDC9E3C05}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E537AD79-55EC-4B07-AD4A-11ACDC9E3C05}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E537AD79-55EC-4B07-AD4A-11ACDC9E3C05}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0255EE-F467-41E6-80DD-23D4E51AA4B3}|Utilidad\\Utilidad.csproj|C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\utilidad\\sql server\\001_base de datos y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4A0255EE-F467-41E6-80DD-23D4E51AA4B3}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\001_base de datos y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Usuario\\Crear.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Usuario\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Usuario\\Crear.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Usuario\\Crear.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T16:17:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Rol.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Rol.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Rol.cs",
+              "RelativeToolTip": "CapaModelo\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:13.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:32:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Categoria.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwGAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:39.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Cliente.cs",
+              "RelativeToolTip": "CapaModelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:56:00.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:58:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Categoria\\Crear.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Categoria\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Categoria\\Crear.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Categoria\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:57:15.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Documento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Documento.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Compra\\Documento.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Documento.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Compra\\Documento.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:56:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Crear.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Compra\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Crear.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Compra\\Crear.cshtml",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:56:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SubMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\SubMenu.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\SubMenu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\SubMenu.cs",
+              "RelativeToolTip": "CapaModelo\\SubMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:15.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Usuario.cs",
+              "RelativeToolTip": "CapaModelo\\Usuario.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:17.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.js.map",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\bootstrap.js.map",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\bootstrap.js.map",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\bootstrap.js.map",
+              "RelativeToolTip": "VentasWeb\\Scripts\\bootstrap.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T18:44:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permisos_Crear.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Permisos_Crear.js",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\Views\\Permisos_Crear.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Permisos_Crear.js",
+              "RelativeToolTip": "VentasWeb\\Scripts\\Views\\Permisos_Crear.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T21:59:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria_Crear.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Categoria_Crear.js",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\Views\\Categoria_Crear.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Categoria_Crear.js",
+              "RelativeToolTip": "VentasWeb\\Scripts\\Views\\Categoria_Crear.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T01:59:44.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Compra_Consultar.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Compra_Consultar.js",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\Views\\Compra_Consultar.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Compra_Consultar.js",
+              "RelativeToolTip": "VentasWeb\\Scripts\\Views\\Compra_Consultar.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-24T13:44:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwGcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:51:55.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:52:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:21:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CD_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Venta.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Venta.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:42:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Permisos.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Permisos.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Permisos.cs",
+              "RelativeToolTip": "CapaModelo\\Permisos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:21:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\RolController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\RolController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:22:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Venta.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Venta.cs",
+              "RelativeToolTip": "CapaModelo\\Venta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:23.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\ReporteVenta.cs",
+              "RelativeToolTip": "CapaModelo\\ReporteVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:27.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "VentasWeb\\Controllers\\CompraController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:44.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CD_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Rol.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Rol.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Rol.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Rol.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:55:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente_Crear.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Cliente_Crear.js",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\Views\\Cliente_Crear.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\Views\\Cliente_Crear.js",
+              "RelativeToolTip": "VentasWeb\\Scripts\\Views\\Cliente_Crear.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-24T13:44:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\DetalleVenta.cs",
+              "RelativeToolTip": "CapaModelo\\DetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:10.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\DetalleCompra.cs",
+              "RelativeToolTip": "CapaModelo\\DetalleCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:43:09.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CD_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Cliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Cliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Cliente.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:42:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Encriptar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Utilidades\\Encriptar.cs",
+              "RelativeDocumentMoniker": "VentasWeb\\Utilidades\\Encriptar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Utilidades\\Encriptar.cs",
+              "RelativeToolTip": "VentasWeb\\Utilidades\\Encriptar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:59:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "update.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\src\\methods\\update.js",
+              "RelativeDocumentMoniker": "VentasWeb\\Scripts\\src\\methods\\update.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Scripts\\src\\methods\\update.js",
+              "RelativeToolTip": "VentasWeb\\Scripts\\src\\methods\\update.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T01:58:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Asignar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Producto\\Asignar.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Producto\\Asignar.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Producto\\Asignar.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Producto\\Asignar.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAMMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:57:53.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Permisos\\Crear.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Permisos\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Permisos\\Crear.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Permisos\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:57:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:57:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:57:21.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Reporte\\Producto.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Reporte\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Reporte\\Producto.cshtml*",
+              "RelativeToolTip": "VentasWeb\\Views\\Reporte\\Producto.cshtml*",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAADwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:32:31.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Consultar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Consultar.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Compra\\Consultar.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Compra\\Consultar.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Compra\\Consultar.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T01:56:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CD_ProductoTienda.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_ProductoTienda.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_ProductoTienda.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_ProductoTienda.cs",
+              "RelativeToolTip": "CapaDatos\\CD_ProductoTienda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:56:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:56:12.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CD_Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Permisos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Permisos.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Permisos.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Permisos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:55:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CD_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Compra.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Compra.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaDatos\\CD_Compra.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Compra.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Respuesta.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Respuesta.cs",
+              "RelativeToolTip": "CapaModelo\\Respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:36.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Compra.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Compra.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Compra.cs",
+              "RelativeToolTip": "CapaModelo\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:34.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\CapaModelo\\Categoria.cs",
+              "RelativeToolTip": "CapaModelo\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:31.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\UnitTestProject1\\Converter.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Converter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\UnitTestProject1\\Converter.cs",
+              "RelativeToolTip": "UnitTestProject1\\Converter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:22.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:54:13.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "001_BASE DE DATOS Y TABLAS.sql ",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\Utilidad\\SQL Server\\001_BASE DE DATOS Y TABLAS.sql",
+              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\001_BASE DE DATOS Y TABLAS.sql",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Guia\\022_SistemaVentaAspMVC-main\\Utilidad\\SQL Server\\001_BASE DE DATOS Y TABLAS.sql",
+              "RelativeToolTip": "Utilidad\\SQL Server\\001_BASE DE DATOS Y TABLAS.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-13T01:54:03.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
